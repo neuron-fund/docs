@@ -4,7 +4,7 @@
 
 ### Techrate **Audit**
 
-An audit of the full suite of Neuron Capital smart contracts by Techrate had started on October 3, 2020.
+An audit of the full suite of Neuron Capital smart contracts by Techrate had started on July 23, 2021.
 
 To date, the following scope of Neuron's function-critical smart contracts were reviewed:
 
@@ -16,7 +16,7 @@ To date, the following scope of Neuron's function-critical smart contracts were 
 6. [https://github.com/avele/Neuron-Contracts/blob/master/contracts/Axon.sol](https://github.com/avele/Neuron-Contracts/blob/master/contracts/Axon.sol)
 7. [https://github.com/avele/Neuron-Contracts/blob/master/contracts/GaugesDistributor.sol](https://github.com/avele/Neuron-Contracts/blob/master/contracts/GaugesDistributor.sol)
 
-No critical or major issues were found in the aforementioned contracts. Minor issues have been fixed. The full report can be viewed [**here**](https://github.com/pickle-finance/protocol/blob/master/audits/MixBytes_Audit_All_Strategies.pdf).
+No critical or major issues were found in the aforementioned contracts. Minor issues have been fixed. The full report can be viewed [**here**](https://github.com/neuron-fund/audits/blob/master/Techrate%20audit.pdf).
 
 An audit of the remaining contracts is underway and is expected to complete shortly.
 
@@ -32,7 +32,7 @@ Each of the above timelock contracts must be executed through a 2/5 community [*
 
 ### 🐜 Bug bounty program
 
-Neuron Capital is running a continuous bug bounty program - we're paying $bountyAmount$ in NEURs or stablecoins to anyone who contacts us with a bug. We're taking security dead-serious - if you find one, click the image below to contact us:
+Neuron Capital is running a continuous bug bounty program - we're paying _bountyAmount_ in NEURs or stablecoins to anyone who contacts us with a bug. We're taking security dead-serious - if you find one, click the image below to contact us:
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
