@@ -17,7 +17,7 @@ Neuron Fund jumps from A to B with **automation, risk analysis** and **tokenomic
 Neuron Fund consists of two investing instruments:
 
 * **Pools**, which are essentially automating the investing process, including LP position provisioning.
-Those are further divided into liquidity, stable and lending pools ([more](pools/what-are-neuron-pools.md] on those), as long as option pools - a thing on its own, providing high returns and controlled risk. [More on option pools.](pools/option-pools.md)
+Those are further divided into liquidity, stable and lending pools ([more](pools/what-are-neuron-pools.md) on those), as long as option pools - a thing on its own, providing high returns and controlled risk. [More on option pools.](pools/option-pools.md)
 * **Staking** NEUR for veNEUR: receiving a share of protocol revenue, boosted rewards, and voting rights
 
 ## Social
