@@ -16,24 +16,26 @@ Neuron Fund jumps from A to B with **automation, risk analysis** and **tokenomic
 
 Neuron Fund consists of two investing instruments:
 
-* **Pools**, which are essentially automating the investing process, including LP position provisioning
-* **Staking** NEUR for AXON: receiving a share of protocol revenue, boosted rewards, and voting rights
+* **Pools**, which are essentially automating the investing process, including LP position provisioning.
+Those are further divided into liquidity, stable and lending pools ([more](pools/what-are-neuron-pools.md] on those), as long as option pools - a thing on its own, providing high returns and controlled risk. [More on option pools.](pools/option-pools.md)
+* **Staking** NEUR for veNEUR: receiving a share of protocol revenue, boosted rewards, and voting rights
 
 ## Social
 
-We've established some media volumes for Neuron, you can find them in our [Social](https://www.notion.so/Social-38ac7bbd4f764542b45259566b51154a) section:
+We've established some media volumes for Neuron, you can find them in our [Social](reference/social.md) section:
 
-* Discord - the official channel for Neuron discussions \[Discord link\]
-* Twitter \[Twitter link\]
-* Telegram \[Tlg link\]
-* Feedback: \[Canny/other feature req link\]
-* Forums: \[Discourse link\]
+* Website: https://neuronfund.io
+* Twitter: https://twitter.com/NeuronFund
+* Telegram: https://t.me/neuronfund
+* Discord: https://discord.gg/bjyQEZ4FRF
+* Medium: https://medium.com/neuronfund-announcement
+* Forum: https://forum.neuronfund.io
 
 ## Governance aka veNEUR DAO
 
 Neuron capital is governed by a DAO \(Decentralized Autonomous Organization\). Holders of “veNEUR”, a representation of NEUR token that has been time-locked on the platform for a set duration, receive voting rights to make changes to the protocol, emissions, and more.
 
-Join us! \[Discourse link\]
+[Join us!](https://forum.neuronfund.io)
 
 #### **What are the risks?**
 
@@ -51,5 +53,5 @@ All of the deployed smart contracts used by Neuron Fund are available at our Git
 
 #### **What are Neuron's tokenomics?**
 
-There is no hard cap on the supply of NEURs, however the emission is asymptotical. The emission schedule can be found [here](tokenomics/emission.md).
+Our emission schedule can be found [here](tokenomics/emission.md).
 
