@@ -1,42 +1,37 @@
 # Glossary
 
-## Admin fee
+## Revenue stake
 
-Admin fee is the share of protocol revenue that [is distributed](https://www.notion.so/Profit-sharing-12e824c7e8284e6d81c9709483fe920c) by governance participants who have locked their NEUR.
+**Revenue stake** is the share of protocol's revenue that [is distributed](https://www.notion.so/Profit-sharing-12e824c7e8284e6d81c9709483fe920c) by governance participants who have vote-locked their NEUR.
 
-## AXON
+## Buyback
 
-Governance token for the Neuron DAO, they are [essentially NEURs locked](https://www.notion.so/Vote-locking-ac8569063610444fbfa042fa7ab5e5c2) for the purpose of voting and earning fees. Also, it's an [action potential conductor](https://en.wikipedia.org/wiki/Axon).
+In essence, a **buyback** is when a project, or company, uses its own resources to repurchase some amount of its tokens from the open market. The repurchased assets, in the case of Neuron Fund, are then [distributed to governance token holders](../dao/profit-sharing.md).
 
-## Boosting
+## Option
 
-The act of locking your AXON to [earn more NEUR](https://www.notion.so/Reward-boosts-bad8ca0f89f34dc5b014cf03cf20c61d) on your provided liquidity.
+An **option** is a contract which conveys its owner, the holder, the right, but not the obligation, to buy or sell an underlying asset or instrument at a specified strike price prior to or on a specified date, depending on the form of the option.
 
-## DeFi \(Decentralized Finance\)
+## veNEUR
 
-Decentralized finance \(commonly referred to as DeFi\) is an experimental form of finance that does not rely on financial intermediaries such as brokerages, exchanges, or banks, and instead utilizes blockchains, most commonly the Ethereum blockchain.
+**veNEUR** is the governance token for the Neuron DAO, they are [essentially NEURs locked](../tokenomics/vote-locking.md) for the purpose of voting and earning fees.
 
-## LP \(Liquidity provider\)
+## DeFi (Decentralized Finance)
 
-Users providing liquidity \(funds/assets\) on Neuron, Curve or other DeFi protocols.
+**Decentralized finance** (commonly referred to as DeFi) is an experimental form of finance that does not rely on financial intermediaries such as brokerages, exchanges, or banks, and instead utilizes blockchains, most commonly the Ethereum blockchain.
 
-## LP tokens \(Liquidity provider token\)
+## LP (Liquidity provider)
 
-When you deposit into a Neuron pool, you receive a counterparty token which represents your share of the pool.
+Users **providing liquidity** (funds/assets) on Neuron, Curve or other DeFi protocols.
 
 ## Metamask
 
-Metamask is an Ethereum wallet that allows you to interact with Neuron and other dapps. You can also use it with Ledger and Trezor hardware wallets. It's the most popular Ethereum web wallet and is available as an add-on for most browsers.
+[Metamask](https://metamask.io/) is an Ethereum wallet that allows you to interact with Neuron and other dapps. You can also use it with Ledger and Trezor hardware wallets. It's the most popular Ethereum web wallet and is available as an add-on for most browsers.
 
 ## NEUR
 
-NEUR is Neuron Capital's [utility and reward token](https://www.notion.so/How-to-get-NEUR-0637dd336dbf4b509504d28b343e85ba).
-
-## Performance fee
-
-Performance fee is deducted from Neuron strategies' yields in liquidity or lending protocols. More on it [here](https://www.notion.so/Fees-and-distribution-d447cfddec2a4d9b861ed9349d86286f).
+NEUR is Neuron Fund's [utility and reward token](../tokenomics/neur.md).
 
 ## Stablecoin
 
-A stablecoin is a digital currency that is linked to an underlying asset such as a national currency or a precious metal such as gold.
-
+**Stablecoins** are cryptocurrencies that attempt to peg their market value to some external reference. Stablecoins may be pegged to a currency like the U.S. dollar or to a commodity's price such as gold.

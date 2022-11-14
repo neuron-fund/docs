@@ -1,16 +1,9 @@
-# Fees and distribution
+# 🥧 Fees & Distribution
 
-### What are the fees at Neuron Capital?
+## What are the fees at Neuron pools?
 
-Right now every pool at Neuron Capital employs a Performance fee equal to 20%, and a management fee of 2%.
-There are no withdrawal fees.
+Neuron pools have **no deposit** and **withdrawal fees**. However, a 1% **management fee** and a 10% **performance fee** are incurred for all pools.&#x20;
 
-### How are the proceeds distributed? Is there a chart of some kind?
-
-Actually, yes - we've made a chart for you to better understand the flows of hard-earned minted tokens in Neuron:
-
-![](../.gitbook/assets/neur_-_tokenomics%20%282%29.svg)
-
-Basically, 100% of yields are used to buy NEUR back and distribute it to veNEUR holders.
-Half of the fees collected are automatically sent to our [Treasury](https://zapper.fi/dashboard?address=0x066419eaef5de53cc5da0d8702b990c5bc7d1ab3) when the harvesting bot reinvests the yields.
-
+{% hint style="info" %}
+The fees are distributed between **DAO treasury** and **veNEUR holders**.
+{% endhint %}

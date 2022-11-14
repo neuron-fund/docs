@@ -1,40 +1,52 @@
 # Table of contents
 
-* [Intro](README.md)
-* [How to get NEUR](how-to-get-neur.md)
+* [👀 Product overview](README.md)
+* [❔ FAQ](faq.md)
 
-## DAO
+## How-Tos
 
-* [Vote locking](dao/vote-locking.md)
-* [Governance](dao/governance.md)
-* [Profit sharing](dao/profit-sharing.md)
-* [Reward boosts](dao/reward-boosts.md)
+* [🧠 How to get NEUR](how-tos/how-to-get-neur.md)
+* [🔓 Time-staking NEUR for veNEUR](how-tos/locking-neur-for-veneur.md)
 
-## Pools
+## Protocol
 
-* [What are Neuron pools?](pools/what-are-neuron-pools.md)
-* [Deposit and withdrawal](pools/deposit-and-withdrawal.md)
-* [Strategies](pools/strategies.md)
-
-## Staking
-
-* [Locking NEUR for veNEUR](staking/locking-neur-for-veneur.md)
+* [🧢 Neuron Options](protocol/neuron-options.md)
+* [🎩 Neuron pools | Overview](protocol/what-are-neuron-pools/README.md)
+  * [Technical Architecture](protocol/what-are-neuron-pools/option-pools.md)
+  * [Pool strategies](protocol/what-are-neuron-pools/pool-strategies.md)
+  * [Strike selection](protocol/what-are-neuron-pools/strike-selection.md)
+  * [Flexibility](protocol/what-are-neuron-pools/flexibility.md)
 
 ## Tokenomics
 
-* [Emission](tokenomics/emission.md)
-* [Fees and distribution](tokenomics/fees-and-distribution.md)
-* [Security](tokenomics/security.md)
+* [🧠 NEUR token](tokenomics/neur.md)
+* [🥧 Fees & Distribution](tokenomics/fees-and-distribution.md)
+* [🔓 Time-staking](tokenomics/vote-locking.md)
+* [🔍 Security](tokenomics/security.md)
 
-## Contributors
+## DAO
 
-* [Programming](contributors/programming.md)
-* [Docs & writing](contributors/docs-and-writing.md)
-* [Community](contributors/community.md)
+* [👑 Governance](dao/governance.md)
+* [💰 Profit sharing](dao/profit-sharing.md)
+
+## Options
+
+* [⏳ What is an option?](options/what-is-an-option.md)
+* [🌎 American vs. European](options/american-vs.-european.md)
+* [🎳 Strike price, moneyness](options/strike-price-moneyness.md)
+* [💹 Option pricing basics](options/option-pricing-basics.md)
+* [🇬🇷 Options greeks](options/options-greeks.md)
+* [♟ Options strategies](options/options-strategies.md)
 
 ## Reference
 
 * [Glossary](reference/glossary.md)
 * [Deployment addresses](reference/deployment-addresses.md)
-* [Social](reference/social.md)
+* [Links](reference/links.md)
 
+***
+
+* [📑 Terms of Service](terms-of-service.md)
+* [😱 Risk Disclosure](risk-disclosure.md)
+* [🕶 Privacy Notice](privacy-notice.md)
+* [💼 Legal Notice](legal-notice.md)

@@ -1,57 +1,43 @@
-# Intro
+---
+description: A bird's flight overview of Neuron protocol
+---
 
-## What is Neuron Fund
+# 👀 Product overview
 
-Decentralised Finance had experienced exponential growth during the last year's craze, going strong at more than $60,000,000,000 locked funds. There are many parts of DeFi, including lending platforms, liquidity protocols, stock synthetics, automated market makers, and more. Yield aggregators are another option in the Decentralized Finance space.
+## What is Neuron
 
-Yield farming is hard. There are many projects offering high returns, but it's tough to know if they're sustainable or if they are projects that you can trust. Two more points:
+DeFi, or Decentralized Finance, opens opportunities for gaining returns on crypto-investments. There are many parts of DeFi, including lending platforms, liquidity protocols, stock synthetics, automated market makers, derivatives, and more. Unfortunately, there isn't an abundance of protocols aiming to **increase capital efficiency, using assets one already owns.**
 
-A Providing liquidity is boring for everyone and complicated for off-chain investors
+**Neuron Fund** is an innovative on-chain derivatives DeFi protocol that leverages web3 technology to deliver attractive performance on user's deposits and composes **option selling strategies** with **yield farming** to increase capital efficiency. Neuron's been [thoroughly audited](tokenomics/security.md#pessimistic-security) by a top-notch security firm.
 
-B. High-yield and **provably** safe investing as the goal
+## How does Neuron work? What are the use cases?
 
-Neuron Fund jumps from A to B with **automation, risk analysis** and **tokenomics design.** We're always on the lookout for opportunities to generate yield on your assets for all risk tolerance levels.
+![](<.gitbook/assets/NEUR Flow (1).png>)
 
-## How does it work?
+Neuron currently offers two main products and a locking system for additional yield:
 
-Neuron Fund consists of two investing instruments:
+### Users
 
-* **Pools**, which are essentially automating the investing process, including LP position provisioning.
-Those are further divided into liquidity, stable and lending pools ([more](pools/what-are-neuron-pools.md) on those), as long as option pools - a thing on its own, providing high returns and controlled risk. [More on option pools.](pools/option-pools.md)
-* **Staking** NEUR for veNEUR: receiving a share of protocol revenue, boosted rewards, and voting rights
+* [neuron-options.md](protocol/neuron-options.md "mention") are multicollateralized for increasing option strategies profitability (since every covered short position can gain yield)
+* ****[**Neuron pools**](protocol/what-are-neuron-pools/) **** are an evolutionary step forward for derivative on-chain products and enable adding up to 15% APY running automated derivative strategies on a vast range of assets, including Curve liquidity deposits. In simple LaTeX terms: $$Total\ APY_{Option\ Pool} =Liquidity\ Yield_{(Curve)}+Yield_{Option\ Writing}$$.
+* [vote-locking.md](tokenomics/vote-locking.md "mention") NEUR for veNEUR: possibility of receiving a share of protocol revenue and voting rights
+
+### Market makers
+
+Market makers can buy option contracts (noTokens) at Neuron's open auctions weekly, usually at a discount to the market price.
+
+### Protocols
+
+Protocols can add their tokens to liquidity mining and/or Neuron option pools to increase their adoption and TVL - drop us a note @ [hello@neuronfund.io](mailto:hello@neuronfund.io).
 
 ## Social
 
-We've established some media volumes for Neuron, you can find them in our [Social](reference/social.md) section:
-
-* Website: https://neuronfund.io
-* Twitter: https://twitter.com/NeuronFund
-* Telegram: https://t.me/neuronfund
-* Discord: https://discord.gg/bjyQEZ4FRF
-* Medium: https://medium.com/neuronfund-announcement
-* Forum: https://forum.neuronfund.io
+We've established some media volumes for Neuron; you can find them in our [links.md](reference/links.md "mention") section.
 
 ## Governance aka veNEUR DAO
 
-Neuron capital is governed by a DAO \(Decentralized Autonomous Organization\). Holders of “veNEUR”, a representation of NEUR token that has been time-locked on the platform for a set duration, receive voting rights to make changes to the protocol, emissions, and more.
+Neuron is governed and owned by a DAO (Decentralized Autonomous Organization).&#x20;
 
-[Join us!](https://forum.neuronfund.io)
+Holders of _veNEUR_, a representation of NEUR token that has been [time-locked on the platform](tokenomics/vote-locking.md) for a set duration, [receive voting rights](dao/governance.md) along with potentially participating in the protocol's [revenue sharing](dao/profit-sharing.md).
 
-#### **What are the risks?**
-
-Neuron Fund smart contracts have been [audited](tokenomics/security.md). We're running a constant bug bounty program, additionally.
-
-There is also a slim chance that the price of NEUR goes to 0, however that's hugely offset by our tokenomics' incentivization mechanisms. Only invest what you can afford to lose \(that's an investment maxim to always follow\) and do your own due diligence.
-
-#### Can't I do the Neuron Fund functions myself?
-
-Yes you could, but the pools help you automatically re-invest your rewards to increase your principal, save on gas and optimize for the highest yielding strategies.
-
-**Where are the Smart Contracts?**
-
-All of the deployed smart contracts used by Neuron Fund are available at our Github: [https://github.com/avele/Neuron-Contracts](https://github.com/avele/Neuron-Contracts) and also at [Deployment addresses](reference/deployment-addresses.md)
-
-#### **What are Neuron's tokenomics?**
-
-Our emission schedule can be found [here](tokenomics/emission.md).
-
+##

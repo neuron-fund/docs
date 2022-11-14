@@ -1,20 +1,15 @@
-# Profit sharing
+# 💰 Profit sharing
 
-### How does profit sharing in Neuron work?
+{% hint style="success" %}
+veNEUR holders are entitled to a share of [Neuron Pools](../protocol/what-are-neuron-pools/)’ revenue proportional to the **veNEUR** balance.
+{% endhint %}
 
-**50% of the protocol's revenues** \(gross income, basically $DistributedNEUR=PoolRevenue\*\frac{PerformanceFee}{100}\*50\%$ currently amounting to 10%\) is distributed weekly in market-bought NEURs. The amount that a user is entitled to is determined by their proportional share of the total AXON supply multiplied by the number of NEURs that are distributed weekly, e.g. $\frac{UserAXON}{TotalAXON}\*DistributedNEUR$.
+## How does profit sharing in Neuron work?
 
-Для изменения цветов ⇒
+**A hefty part of the protocol's revenue** is distributed in market-bought NEURs (more on our [distribution and fees](../tokenomics/fees-and-distribution.md)).
 
-[Neuron\_revenues.xlsx](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a74379af-57ec-4b4e-b3e2-a5552c42d3bb/Neuron_revenues.xlsx)
+The amount that a user is entitled to is determined by their proportional share of the total veNEUR supply multiplied by the number of NEURs that are distributed weekly, e.g. $$DistributedNEUR_{User}=Revenue_{Time\ Period}*\frac{veNEUR_{User}}{veNEUR_{Total}}$$
 
-![](../.gitbook/assets/image%20%286%29.png)
+## How do I claim my pending NEUR rewards?
 
-## How locking and distribution work
-
-Users can claim their weekly rewards at [https://app.pickle.finance/dill](https://app.pickle.finance/dill).
-
-The first distribution will be made on дату поставить
-
-![https://gblobscdn.gitbook.com/assets%2F-MI-yJcvm6yA8baawmo4%2F-MYg8z9JRS5NysLm4wX2%2F-MYgEwWa4FWDp1obqkq1%2Fimage.png?alt=media&amp;token=c3e5c1c3-97c3-4398-8dab-516349edb409](https://gblobscdn.gitbook.com/assets%2F-MI-yJcvm6yA8baawmo4%2F-MYg8z9JRS5NysLm4wX2%2F-MYgEwWa4FWDp1obqkq1%2Fimage.png?alt=media&token=c3e5c1c3-97c3-4398-8dab-516349edb409)
-
+Users can claim their rewards on the veNEUR page.
