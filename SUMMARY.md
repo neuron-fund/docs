@@ -41,7 +41,6 @@
 ## Reference
 
 * [Glossary](reference/glossary.md)
-* [Deployment addresses](reference/deployment-addresses.md)
 * [Links](reference/links.md)
 
 ***
